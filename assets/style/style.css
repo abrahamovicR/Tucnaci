@@ -1,0 +1,63 @@
+body {
+    color: black;
+    text-align: center;
+}
+
+ul {
+    font-size: 22px;
+    list-style: none;
+}
+
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+header {
+    background-image: url(../img/tucnaci_head.webp);
+    background-position: top;
+    color: white;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    height: 220px;
+}
+
+footer {
+    height: 50px;
+    text-align: right;
+}
+
+article {
+    padding-top: 10px;
+    height: 400px;
+}
+
+#img1 {
+    width: auto;
+    height: 400px;
+}
+
+#img2 {
+    width: auto;
+    height: 300px;
+}
+
+#img3 {
+    width: auto;
+    height: 300px;
+}
